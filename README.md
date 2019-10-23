@@ -17,4 +17,4 @@
  https://devpost.com/software/viz-814clr
  
  
-  *Note: The website is found in GoldenHack/websites/templates/index.html*
+  *Note: The website page is found in GoldenHack/websites/templates/index.html, but to run it you must start the web app (app.py)*
